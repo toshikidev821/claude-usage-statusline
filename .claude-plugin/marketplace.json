@@ -1,0 +1,19 @@
+{
+  "name": "toshikidev821-plugins",
+  "description": "toshikidev821 の Claude Code プラグイン集",
+  "owner": {
+    "name": "toshikidev821",
+    "url": "https://github.com/toshikidev821"
+  },
+  "plugins": [
+    {
+      "name": "usage-statusline",
+      "description": "Claude Code のステータスラインに公式のプラン使用制限（5時間 / 7日）をプログレスバー付きで表示する。rate_limits の公式データを使うため自前のトークン推定は不要。",
+      "author": {
+        "name": "toshikidev821"
+      },
+      "category": "productivity",
+      "source": "./plugins/usage-statusline"
+    }
+  ]
+}

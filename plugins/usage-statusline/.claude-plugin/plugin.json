@@ -1,0 +1,13 @@
+{
+  "name": "usage-statusline",
+  "displayName": "Usage Statusline",
+  "version": "1.0.0",
+  "description": "Claude Code のステータスラインに公式のプラン使用制限（5時間 / 7日ウィンドウ）をプログレスバー付きで表示する",
+  "author": {
+    "name": "toshikidev821",
+    "url": "https://github.com/toshikidev821"
+  },
+  "repository": "https://github.com/toshikidev821/claude-usage-statusline",
+  "license": "MIT",
+  "keywords": ["statusline", "usage", "rate-limits", "token", "japanese"]
+}
